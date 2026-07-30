@@ -1,4 +1,4 @@
-# 🐕 Interactive Dogstudio Clone — Award-Winning 3D Web Experience
+# 🐕 Interactive Dogstudio Clone — 3D Web Experience
 
 <div align="center">
 
